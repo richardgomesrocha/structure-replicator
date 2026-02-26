@@ -14,7 +14,7 @@ const Navbar = () => {
           <a href="#crimes" className="hover:text-foreground transition-colors">Crimes</a>
           <a href="#protecao" className="hover:text-foreground transition-colors">Proteção</a>
           <a href="#denuncia" className="hover:text-foreground transition-colors">Denúncia</a>
-          <a href="#formulario" className="hover:text-foreground transition-colors bg-primary text-primary-foreground px-4 py-2 rounded-lg">
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScd3ZCjEgxpun7UJxMVZBnNtYN-HrFdKGNPym0sI9cPNE8lGQ/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" className="hover:text-foreground transition-colors bg-primary text-primary-foreground px-4 py-2 rounded-lg">
             Preciso de ajuda
           </a>
         </div>
