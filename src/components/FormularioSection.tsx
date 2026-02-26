@@ -9,7 +9,7 @@ const FormularioSection = () => {
           Use nosso formulário para registrar o ocorrido de forma segura e, se desejar, anônima.
         </p>
         <a
-          href="#"
+          href="https://docs.google.com/forms/d/e/1FAIpQLScd3ZCjEgxpun7UJxMVZBnNtYN-HrFdKGNPym0sI9cPNE8lGQ/viewform?usp=publish-editor"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 bg-primary text-primary-foreground font-semibold px-8 py-4 rounded-lg text-lg hover:opacity-90 transition-opacity"
