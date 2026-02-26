@@ -20,9 +20,7 @@ const HeroSection = () => {
           </p>
           <div className="flex flex-wrap gap-4">
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLScd3ZCjEgxpun7UJxMVZBnNtYN-HrFdKGNPym0sI9cPNE8lGQ/viewform?usp=publish-editor"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="#formulario"
               className="inline-flex items-center justify-center bg-primary text-primary-foreground font-semibold px-8 py-4 rounded-lg text-lg hover:opacity-90 transition-opacity"
             >
               Preciso de ajuda
